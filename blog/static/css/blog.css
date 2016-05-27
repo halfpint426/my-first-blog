@@ -10,6 +10,7 @@
 	color: #73ff2b;
 	font-size: 60pt;
 	text-declaration: none;
+	text-shadow: .05em .05em 0 #000000;
 }
 
 a {
