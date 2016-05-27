@@ -12,6 +12,19 @@
 	text-declaration: none;
 }
 
+a {
+	text-shadow: .05em .05em 0 #ffffff;
+}
+
+.page-header {
+	text-shadow: #000000;
+}
+
+img {
+	margin-right: 450px;
+	margin-left: 450px;
+}
+
 body {
 	background-color: #000000;
 }
