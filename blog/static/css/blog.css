@@ -9,7 +9,6 @@
 .page-header h1, .page-header h1 a, .page-header h1:visited, .page-header h1 a:active{
 	color: #73ff2b;
 	font-size: 60pt;
-	text-declaration: none;
 	text-shadow: .05em .05em 0 #000000;
 }
 
@@ -21,9 +20,16 @@ a {
 	text-shadow: #000000;
 }
 
-img {
-	margin-right: 450px;
-	margin-left: 450px;
+a.top-menu {
+	color: #40e0d0;
+}
+	
+
+img.centerImage {
+	border: 3px #fff solid;
+	margin: 0 auto;
+	display: block;
+	border-radius: 40px;
 }
 
 body {
